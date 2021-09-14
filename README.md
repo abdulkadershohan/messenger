@@ -1,6 +1,6 @@
 # Unichat Application
 
-![Chat Application](https://i.ibb.co/GJwyy9m/Bv9-Js3-QLOLY-HD.jpg)
+![Chat Application](https://ibb.co/9ZGpv8J)
 
 ## Introduction
 
